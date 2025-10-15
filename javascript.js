@@ -1,1 +1,2 @@
-console.log('holaa me falto esto')
+console.log("Página Índice cargada correctamente");
+alert("Bienvenido a la página de IDGS - UTSC");
